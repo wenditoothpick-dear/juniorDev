@@ -1,0 +1,14 @@
+C:\assingment\New folder\my test app\obj\Debug\net8.0\my test app.GeneratedMSBuildEditorConfig.editorconfig
+C:\assingment\New folder\my test app\obj\Debug\net8.0\my test app.AssemblyInfoInputs.cache
+C:\assingment\New folder\my test app\obj\Debug\net8.0\my test app.AssemblyInfo.cs
+C:\assingment\New folder\my test app\obj\Debug\net8.0\my test app.csproj.CoreCompileInputs.cache
+C:\assingment\New folder\my test app\bin\Debug\net8.0\my test app.exe
+C:\assingment\New folder\my test app\bin\Debug\net8.0\my test app.deps.json
+C:\assingment\New folder\my test app\bin\Debug\net8.0\my test app.runtimeconfig.json
+C:\assingment\New folder\my test app\bin\Debug\net8.0\my test app.dll
+C:\assingment\New folder\my test app\bin\Debug\net8.0\my test app.pdb
+C:\assingment\New folder\my test app\obj\Debug\net8.0\my test app.dll
+C:\assingment\New folder\my test app\obj\Debug\net8.0\refint\my test app.dll
+C:\assingment\New folder\my test app\obj\Debug\net8.0\my test app.pdb
+C:\assingment\New folder\my test app\obj\Debug\net8.0\my test app.genruntimeconfig.cache
+C:\assingment\New folder\my test app\obj\Debug\net8.0\ref\my test app.dll
